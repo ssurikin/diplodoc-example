@@ -6,5 +6,7 @@ links:
     href: page.md
   - title: YFM Structure on index page
     href: anotherpage.md
+  - title: PHP Библиотека - Отладка
+    href: PHP Библиотека - Отладка.md
   - title: Sub-section on index page
     href: sub-section/
